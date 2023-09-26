@@ -7,3 +7,4 @@ before_install:
 
 script:
  - python test.py
+ - python jogovelha.py
